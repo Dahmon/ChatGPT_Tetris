@@ -5,7 +5,7 @@ It was created by giving ChatGPT prompts to implement features in this game, wit
 
 ## [ChatGPT Conversation](https://github.com/Dahmon/ChatGPT_Tetris/blob/main/CONVERSATION.md)
 
-## ChatGPT Instructions
+## ChatGPT Instructions (Written by ChatGPT)
 
 To play the game, follow these steps:
 
